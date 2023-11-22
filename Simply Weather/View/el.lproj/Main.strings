@@ -1,0 +1,39 @@
+
+/* Class = "UITextField"; placeholder = "Enter city or coordinates"; ObjectID = "2eh-wL-W34"; */
+"2eh-wL-W34.placeholder" = "Enter city or coordinates";
+
+/* Class = "UILabel"; text = "Athens"; ObjectID = "CWP-r8-Jsy"; */
+"CWP-r8-Jsy.text" = "Athens";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "In8-ev-Slo"; */
+"In8-ev-Slo.text" = "22";
+
+/* Class = "UILabel"; text = "18"; ObjectID = "Kyc-Z7-Dwy"; */
+"Kyc-Z7-Dwy.text" = "18";
+
+/* Class = "UILabel"; text = "C"; ObjectID = "MHH-vY-Mrb"; */
+"MHH-vY-Mrb.text" = "C";
+
+/* Class = "UILabel"; text = "°"; ObjectID = "N7Y-Fj-S2q"; */
+"N7Y-Fj-S2q.text" = "°";
+
+/* Class = "UILabel"; text = "Hi"; ObjectID = "RPP-Ut-5dP"; */
+"RPP-Ut-5dP.text" = "Hi";
+
+/* Class = "UILabel"; text = "°"; ObjectID = "XEV-lO-EwT"; */
+"XEV-lO-EwT.text" = "°";
+
+/* Class = "UILabel"; text = "Lo"; ObjectID = "bs3-y9-Xhe"; */
+"bs3-y9-Xhe.text" = "Lo";
+
+/* Class = "UILabel"; text = "°"; ObjectID = "of2-07-VmX"; */
+"of2-07-VmX.text" = "°";
+
+/* Class = "UILabel"; text = "21"; ObjectID = "w9o-tW-03D"; */
+"w9o-tW-03D.text" = "21";
+
+/* Class = "UISegmentedControl"; y43-61-q9P.segmentTitles[0] = "Celsius"; ObjectID = "y43-61-q9P"; */
+"y43-61-q9P.segmentTitles[0]" = "Celsius";
+
+/* Class = "UISegmentedControl"; y43-61-q9P.segmentTitles[1] = "Fahrenheit"; ObjectID = "y43-61-q9P"; */
+"y43-61-q9P.segmentTitles[1]" = "Fahrenheit";
